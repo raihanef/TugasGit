@@ -1,1 +1,1 @@
-print ("alpro 2")
+print ("algortima")
