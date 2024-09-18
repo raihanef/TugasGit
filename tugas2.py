@@ -1,1 +1,1 @@
-print ("algortima")
+print ("algortima program sangat menyenangkan")
