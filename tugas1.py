@@ -1,1 +1,1 @@
-print ("saya")
+print ("saya suka belajar")
